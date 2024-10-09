@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @saiprasadm1998
 - 👀 I’m interested in Data Science and Artificial intelligence
-- 🌱 I’m currently learning Python basics for Data science
-- 💞️ I’m looking to collaborate on Python programs
 - 📫 How to reach me ... saiprasadm1998@gmail.com
 
 <!---
